@@ -10,7 +10,7 @@ alternativesRanks <- c(1,2,3,4)
 names(alternativesRanks) <- row.names(t)
 
 # criteria to minimize or maximize
-criteriaMinMax <- c("min","max","max","min")
+criteriaMinMax <- c("min","max","max","max","min")
 names(criteriaMinMax) <- colnames(t)
 
 x<-additiveValueFunctionElicitation(
