@@ -1,0 +1,29 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1524558114953.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "38CCCE47",
+    "lastKnownWriteTime" : 7340097,
+    "last_content_update" : -2147483648,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "7C909174",
+        "caption" : "performanceTable",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=performanceTable&cache_key=7C909174",
+        "displayedObservations" : 4,
+        "environment" : "",
+        "object" : "performanceTable",
+        "preview" : 0,
+        "totalObservations" : 4,
+        "variables" : 4
+    },
+    "relative_order" : 4,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_dataframe"
+}
